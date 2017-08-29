@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="PieChartView">
+        <attr name="dividing_line" format="boolean"/>
+        <attr name="dividing_line_color" format="color"/>
+        <attr name="show_sign" format="boolean"/>
+        <attr name="dividing_line_angle" format="dimension"/>
+
+    </declare-styleable>
+</resources>
